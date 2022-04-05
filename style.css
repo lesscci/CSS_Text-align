@@ -1,0 +1,27 @@
+.title{
+    margin-left: 589px;
+}
+body{
+    background-color: rgb(255, 240, 250);
+}
+.boxes{
+margin-left: 550px;
+}
+.btn{
+    width: 200px;
+    height: 25px;
+    border: solid 5px;
+    display: block;
+}
+.txt-right{
+    text-align:right;
+    color: rgb(218, 176, 215);
+}
+.txt-center{
+    text-align: center;
+    color: bisque;
+}
+.txt-left{
+    text-align: left;
+    color: brown;
+}
